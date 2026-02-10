@@ -1,5 +1,5 @@
 # ❄️ Relay Love
-https://januszspiewa.github.io/snowflake-tor-relay/
+https://januszspiewa.github.io/snowflake
 <br>
 https://relay.love
 <br>
