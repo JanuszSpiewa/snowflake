@@ -1,5 +1,5 @@
 # ❄️ Relay Love
-https://januszspiewa.github.io/snowflake
+https://relay.myselfhosted.online/
 <br>
 https://relay.love
 <br>
